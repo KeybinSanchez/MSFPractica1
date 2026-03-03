@@ -2,9 +2,9 @@
 
 # Práctica 1: Diseño de controladores
 
-## Información de la estudiante
+## Información del estudiante
 
-NSanchez Perez Keybin Daniel \[23210721]; l23210721@tectijuana.edu.mx
+Sanchez Perez Keybin Daniel \[23210721]; l23210721@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
